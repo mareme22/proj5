@@ -1,0 +1,53 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	border-collapse:collapse ;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+h1{
+	text-align: center;
+	background: gray;
+}
+h2{
+	margin-left:200px ;
+}
+button{ 
+	border-radius: 100px;
+}
+.D{
+	padding: 10px;
+	margin-left: 1000px;
+}
+th{
+	width: 400px;
+	background: gray;
+}
+.B{
+	padding: 20px;
+}
+.table1{
+	font-size: 20px;
+	width: 70%;
+	height: 70%;
+	margin: 30px auto;
+	border: 1px solid;
+}
+.table2{
+	font-size: 20px;
+	width: 70%;
+	height: 70%;
+	margin: 30px auto;
+	border: 1px solid;
+}
+
+td{
+	border: 1px solid;
+}
+
+.tr{
+	background: gray;
+}
+
